@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "tomar mate",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "estudiar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "terminar el tp nro 2",
+    "estado": "realizado"
+  },
+  {
+    "titulo": "lavar los platos",
+    "estado": "realizado"
+  }
+]
